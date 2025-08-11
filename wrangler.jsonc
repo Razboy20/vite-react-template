@@ -5,7 +5,8 @@
   "compatibility_date": "2025-04-01",
   "compatibility_flags": ["nodejs_compat"],
   "observability": {
-    "enabled": true // hi
+    "enabled": true,
+    "compatibility_d": "2025-07-18" // hi
   },
   "upload_source_maps": true,
   "assets": {
